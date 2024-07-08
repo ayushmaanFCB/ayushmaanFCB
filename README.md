@@ -24,11 +24,6 @@
 
 <hr>
 
-### Programming Languages
-| Python | C | C++ | Java | JavaScript | R |
-|---|---|---|---|---|---|
-| <a href="https://www.python.org/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a> | <a href="https://devdocs.io/c/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></a> | <a href="https://devdocs.io/cpp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a> | <a href="https://docs.oracle.com/javase/8/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a> | <a href="https://www.rdocumentation.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/></a> |
-
 ### Machine Learning, Deep Learning and NLP
 | TensorFlow | Keras | PyTorch | SkLearn | OpenCV | Hugging Face | SpaCy |
 |---|---|---|---|---|---|---|
@@ -48,3 +43,8 @@
 | Tableau | Power BI | Docker | Git | Postman | Linux | AWS |
 |---|---|---|---|---|---|---|
 | <a href="https://www.tableau.com/learn/training"><img src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="40"/></a> | <a href="https://docs.microsoft.com/en-us/power-bi/"><img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="40" height="40"/></a> | <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></a> | <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a> | <a href="https://learning.postman.com/docs/getting-started/introduction/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a> | <a href="https://linux.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></a> | <a href="https://docs.aws.amazon.com/"><img src="https://img.icons8.com/nolan/64/amazon-web-services.png" width="40" height="40"/></a> |
+
+### Programming Languages
+| Python | C | C++ | Java | JavaScript | R |
+|---|---|---|---|---|---|
+| <a href="https://www.python.org/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a> | <a href="https://devdocs.io/c/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></a> | <a href="https://devdocs.io/cpp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a> | <a href="https://docs.oracle.com/javase/8/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a> | <a href="https://www.rdocumentation.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/></a> |
