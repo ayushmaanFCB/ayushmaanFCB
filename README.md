@@ -8,20 +8,7 @@
 
 <hr>
 
-## Skills
-
-| Domain                         | Insights                                 |
-|-------------------------------|---------------------------------------------|
-| **Machine Learning**          | Building predictive models and algorithms   |
-| **Deep Learning**             | Designing and training neural networks      |
-| **Natural Language Processing (NLP)** | Processing and analyzing text data         |
-| **Data Analytics and Visualization**  | Analyzing data and creating visual reports |
-| **Computer Vision**           | Interpreting and understanding visual data  |
-| **Artificial Intelligence**   | Developing intelligent systems and agents   |
-| **Web Development**           | Building and maintaining websites           |
-| **Database Management**       | Designing and managing databases            |
-| **Automation and Testing**    | Automating tasks and ensuring code quality  |
-
+<p align="center"><a href="https://git.io/streak-stats"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayushmaanFCB&theme=github-dark&hide_border=true&border_radius=4.8&card_width=550" alt="GitHub Streak" /></a></p>
 <hr>
 
 ### Machine Learning, Deep Learning and NLP
