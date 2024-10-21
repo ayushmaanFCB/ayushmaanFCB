@@ -17,9 +17,13 @@
 </p>
 
 <!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushmaanFCB&theme=github-dark&hide_border=true&border_radius=4.8&card_width=550" alt="GitHub Streak"/>
-</p>
+<div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center;">
+  <img src="https://streak-stats.demolab.com?user=ayushmaanFCB&theme=github-dark&hide_border=true&border_radius=4.8&card_width=500" alt="GitHub Streak" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmaanFCB&hide=html&layout=compact" alt="Top Languages" />
+</div>
+
+
+
 
 <!-- Badges: Programming Languages -->
 ### 🖥️ Programming Languages 
