@@ -4,7 +4,7 @@
 <img src="./github-header-image.png">
 
 </p>
-  
+
 
 <!-- Intro -->
 <p align="center">
@@ -16,6 +16,8 @@
   </i>
 </p>
 
+<hr>
+
 <!-- GitHub Streak -->
 <div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center;">
   <img src="https://streak-stats.demolab.com?user=ayushmaanFCB&theme=github-dark&hide_border=true&border_radius=4.8&card_width=500" alt="GitHub Streak" style="margin-right: 10px;" />
@@ -23,7 +25,7 @@
 </div>
 
 
-
+<hr>
 
 <!-- Badges: Programming Languages -->
 ### 🖥️ Programming Languages 
