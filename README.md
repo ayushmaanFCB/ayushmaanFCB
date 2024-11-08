@@ -80,7 +80,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078d4?style=for-the-badge&logo=azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-36a855?style=for-the-badge&logo=splunk&logoColor=white"/>
+  
 </p>
 
 <hr>
+
 
