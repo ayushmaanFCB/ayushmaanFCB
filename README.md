@@ -89,8 +89,13 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078d4?style=for-the-badge&logo=azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-36a855?style=for-the-badge&logo=splunk&logoColor=white"/>
-  
 </p>
+
+### 🧾Research Works and Book Chapters
+<ul>
+  <li><a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781032630212-14/streaming-highway-traffic-alerts-using-twitter-api-jayanthi-ganapathy-ramya-mohanakrishnan-ayushmaan-das-fausto-pedro-garcia-marque">Streaming Highway Traffic Alerts using Twitter API</a></li>
+</ul>
+
 
 <hr>
 
