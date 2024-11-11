@@ -15,7 +15,7 @@
   I thrive in <strong>team environments</strong> with solid coordination and communication skills.
   </i>
   <p align="center">
-  <a href="https://homeless-margalo-ayushmaan-personal-109aa799.koyeb.app/" target="_blank">
+  <a href="https://homeless-margalo-ayushmaan-personal-109aa799.koyeb.app/">
     <img src="https://img.shields.io/badge/✨_Visit_My_Portfolio_✨-green?style=for-the-badge" alt="Portfolio Link"/>
   </a>
 </p>
