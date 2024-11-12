@@ -16,7 +16,7 @@
   </i>
   <p align="center">
   <a href="https://homeless-margalo-ayushmaan-personal-109aa799.koyeb.app/">
-    <img src="https://img.shields.io/badge/✨_Visit_My_Portfolio_✨-green?style=for-the-badge" alt="Portfolio Link"/>
+    <img src="https://img.shields.io/badge/✨_Visit_My_Portfolio_✨-green?style=for-the-badge" alt="Portfolio Link Koyeb"/>
   </a>
 </p>
 
