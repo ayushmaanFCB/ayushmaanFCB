@@ -94,11 +94,4 @@
 <ul>
   <li><a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781032630212-14/streaming-highway-traffic-alerts-using-twitter-api-jayanthi-ganapathy-ramya-mohanakrishnan-ayushmaan-das-fausto-pedro-garcia-marque">Streaming Highway Traffic Alerts using Twitter API</a></li>
 </ul>
-
-
 <hr>
-
-
-
-
-
