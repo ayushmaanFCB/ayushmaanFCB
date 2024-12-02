@@ -27,7 +27,7 @@
 
 <!-- GitHub Streak -->
 <div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center;">
-  <img src="https://streak-stats.demolab.com?user=ayushmaanFCB&theme=github-dark&hide_border=true&border_radius=4.8&card_width=500" alt="GitHub Streak" style="margin-right: 10px;" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=ayushmaanFCB&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak" style="margin-right: 10px;" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmaanFCB&hide=html&layout=compact" alt="Top Languages" />
 </div>
 
