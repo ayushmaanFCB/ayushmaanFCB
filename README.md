@@ -5,7 +5,6 @@
 </p>
 
 
-<!-- Intro -->
 <p align="center">
   <i>
   👋 Hello, I'm a passionate <strong>AI and Machine Learning Enthusiast</strong>, pursuing my undergraduate studies. <br>
